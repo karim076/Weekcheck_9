@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0db8fc4e-3936-4175-ae22-5455ece28b41": {
+      "ProjectGuid": "0db8fc4e-3936-4175-ae22-5455ece28b41",
+      "DisplayName": "SoundBoard",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
