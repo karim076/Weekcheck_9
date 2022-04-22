@@ -21,17 +21,17 @@
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
         
-        <Button Grid.Row="0" Grid.ColumnSpan="3" Click="Button_Click_4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
+        <Button x:Name="rooster" Grid.Row="0" Grid.ColumnSpan="3" Click="rooster_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
             <Image Source="Assets/Animals/rooster.jpg" Stretch="UniformToFill"></Image>
         </Button>
-        <Button Grid.Row="0" Grid.Column="3" Click="Button_Click_3" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
+        <Button x:Name="donkey" Grid.Row="0" Grid.Column="3" Click="donkey_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
             <Image Source="Assets/Animals/donkey.jpg" Stretch="UniformToFill"></Image>
         </Button>
 
-        <Button Grid.Row="1" Grid.Column="0" Click="Button_Click_2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
+        <Button x:Name="pig" Grid.Row="1" Grid.Column="0" Click="pig_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
             <Image Source="Assets/Animals/pig.jpg" Stretch="UniformToFill"></Image>
         </Button>
-        <Button Grid.Row="2" Grid.Column="0" Click="Button_Click_1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
+        <Button x:Name="sheep" Grid.Row="2" Grid.Column="0" Click="sheep_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" BorderThickness="0" Padding="0">
             <Image Source="Assets/Animals/sheep.jpg" Stretch="UniformToFill"></Image>
         </Button>
 

@@ -25,32 +25,27 @@ namespace SoundBoard
 
         private void cow_Click(object sender, RoutedEventArgs e)
         {
+            MySoundPlayer.PlaySound("cow.ogg");
+        }
+
+        private void sheep_Click(object sender, RoutedEventArgs e)
+        {
             MySoundPlayer.PlaySound("sheep.wav");
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void pig_Click(object sender, RoutedEventArgs e)
         {
-
+            MySoundPlayer.PlaySound("pig.wav");
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void rooster_Click(object sender, RoutedEventArgs e)
         {
-
+            MySoundPlayer.PlaySound("rooster.wav");
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void donkey_Click(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void Button_Click_3(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Button_Click_4(object sender, RoutedEventArgs e)
-        {
-
+            MySoundPlayer.PlaySound("donkey.wav");
         }
 
     }
