@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-P58V777</Machine>
-    <WindowsUser>Bart Roos</WindowsUser>
+    <Machine>LAPTOP-6L2VCH49</Machine>
+    <WindowsUser>Karim Alkichouhi</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7e70667f-b3ab-49cb-9df7-74a9f6f23a4e</PackageIdentityName>
     <PackageIdentityPublisher>CN=Bart Roos</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>83777058E8C0CA50AF9B473DB18C159BAE73D032C44C5236DE835652B1AE9161</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>7EB0C15CEB66ED1544D175C5DDF5A1B261BC1E4B967E1529B6A04A88B62D6CCB</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>7e70667f-b3ab-49cb-9df7-74a9f6f23a4e_1.0.0.0_x86__73wqa05dkdtqj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>7e70667f-b3ab-49cb-9df7-74a9f6f23a4e_73wqa05dkdtqj!App</RegisteredUserModeAppID>
     <RegisteredPackageID>7e70667f-b3ab-49cb-9df7-74a9f6f23a4e</RegisteredPackageID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-03-23T16:19:59.915</Modified>
+      <Modified>2022-04-22T14:58:41.820</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.exe">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\SoundBoard.exe">
       <PackagePath>entrypoint\SoundBoard.exe</PackagePath>
-      <Modified>2022-03-23T16:19:57.259</Modified>
+      <Modified>2022-04-22T14:58:40.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,107 +46,107 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T03:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\cow.jpg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\cow.jpg">
       <PackagePath>Assets\Animals\cow.jpg</PackagePath>
-      <Modified>2022-03-23T16:17:22.718</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\donkey.jpg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\donkey.jpg">
       <PackagePath>Assets\Animals\donkey.jpg</PackagePath>
-      <Modified>2022-03-23T16:17:22.704</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\pig.jpg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\pig.jpg">
       <PackagePath>Assets\Animals\pig.jpg</PackagePath>
-      <Modified>2022-03-23T16:17:22.714</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\rooster.jpg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\rooster.jpg">
       <PackagePath>Assets\Animals\rooster.jpg</PackagePath>
-      <Modified>2022-03-23T16:17:22.711</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\sheep.jpg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\sheep.jpg">
       <PackagePath>Assets\Animals\sheep.jpg</PackagePath>
-      <Modified>2022-03-23T16:17:22.721</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\cow.ogg">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\cow.ogg">
       <PackagePath>Assets\Animals\cow.ogg</PackagePath>
-      <Modified>2022-03-23T16:17:22.745</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\donkey.wav">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\donkey.wav">
       <PackagePath>Assets\Animals\donkey.wav</PackagePath>
-      <Modified>2022-03-23T16:17:22.732</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\pig.wav">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\pig.wav">
       <PackagePath>Assets\Animals\pig.wav</PackagePath>
-      <Modified>2022-03-23T16:17:22.738</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\rooster.wav">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\rooster.wav">
       <PackagePath>Assets\Animals\rooster.wav</PackagePath>
-      <Modified>2022-03-23T16:17:22.742</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Animals\sheep.wav">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Animals\sheep.wav">
       <PackagePath>Assets\Animals\sheep.wav</PackagePath>
-      <Modified>2022-03-23T16:17:22.724</Modified>
+      <Modified>2022-03-23T16:17:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2022-03-23T16:16:51.239</Modified>
+      <Modified>2022-03-23T16:16:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2021-11-16T10:48:00.286</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.291</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.292</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.293</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.294</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.295</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-11-16T10:48:00.296</Modified>
+      <Modified>2021-11-16T10:48:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\SoundBoard.xr.xml">
       <PackagePath>SoundBoard.xr.xml</PackagePath>
-      <Modified>2022-03-23T16:19:57.105</Modified>
+      <Modified>2022-04-22T14:48:29.940</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2022-03-23T16:19:57.135</Modified>
+      <Modified>2022-04-22T14:58:40.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2022-03-23T16:19:57.136</Modified>
+      <Modified>2022-04-22T14:58:40.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-02T01:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-03-23T16:19:58.186</Modified>
+      <Modified>2022-04-22T14:48:31.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bart Roos\Downloads\H9_Weekcheck_SoundBoard\SoundBoard\bin\x86\Debug\Core\SoundBoard.exe">
+    <AppxPackagedFile Include="C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 1\School_Jaar_2022\Blok B\WIN\CSD-I\WeekChecks\Weekcheck_9\SoundBoard\bin\x86\Debug\Core\SoundBoard.exe">
       <PackagePath>SoundBoard.exe</PackagePath>
-      <Modified>2022-03-23T16:19:59.896</Modified>
+      <Modified>2022-04-22T14:58:41.812</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

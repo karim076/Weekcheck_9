@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
 namespace SoundBoard
@@ -23,6 +24,11 @@ namespace SoundBoard
             var stream = await file.OpenAsync(Windows.Storage.FileAccessMode.Read);
             element.SetSource(stream, "");
             element.Play();
+        }
+
+        internal static ElementSoundMode PlaySound(object wav)
+        {
+            throw new NotImplementedException();
         }
     }
 }
